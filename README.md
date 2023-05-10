@@ -138,20 +138,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<b> Github Stats </b>
-<br>
-
-<div align="center">
-
-<a href="https://github.com/Pradip369/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradip369&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pradip369&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Pradip369"/>
-
-</a>
-</div>
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Pradip369&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pradip369&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradip369&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br>
 <br>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pradip369&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<br>
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">

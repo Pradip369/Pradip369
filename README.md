@@ -9,7 +9,7 @@
 
 - Callme: He/His or TeamWorker 😊
 
-- A passionate Self-taught Full-Stack developer 🥰
+- A passionate Self-taught AI Engineer and Full-Stack developer 🥰
 
 - Help to Python and JS community on <a target="_blank" href="https://stackoverflow.com/users/14131913/pradip">stackoverflow</a> at spare time 🤩
 

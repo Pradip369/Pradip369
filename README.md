@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Pradip Kachhadiya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Startup+Enthusiast..&hearts;++;Self-taught+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+Universe...&hearts;++;Active+Learner/Researcher,;Love+to+learn+new+stuffs."></a>
 </p>
 	
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> About me </b>
@@ -14,9 +14,7 @@
 - Help to Python and JS community on <a target="_blank" href="https://stackoverflow.com/users/14131913/pradip">stackoverflow</a> at spare time 🤩
 
 - Ask from me anything you want, If I am alive I will answer within seconds 😉
-
-- Currently learning DevOps and AI/ML 😎
-
+  
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
